@@ -1,6 +1,7 @@
 # [Aeowun](https://aeowun.com) // [Zack Joubert](https://www.linkedin.com/in/zachary-joubert-789005319)
 
 I’m a self-taught builder who likes understanding how things actually work. I care about boundaries, state transitions, failure modes, and making sure the right part of a system has authority over what happens.
+I dont need a grand justification for building something. Sometimes Im investigating a systems problem; sometimes Im shipping a utility; sometimes Im messing around and making a dungeon crawler.
 
 I build software to solve problems I run into, learn by working through real problems, and try to keep things simple and honest about what they actually do. I’m not interested in chasing hype or following the conventional path just because it’s conventional.
 
