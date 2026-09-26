@@ -1,25 +1,49 @@
-# [Aeowun](https://aeowun.com) // [Zack Joubert](https://www.linkedin.com/in/zachary-joubert-789005319)
+# AEOWUN
 
-I’m a self-taught builder who likes understanding how things actually work. I care about boundaries, state transitions, failure modes, and making sure the right part of a system has authority over what happens.
-I dont need a grand justification for building something. Sometimes Im investigating a systems problem; sometimes Im shipping a utility; sometimes Im messing around and making a dungeon crawler.
+AEOWUN is focused on building **AeoEngine** and **AeoScript**.
 
-I build software to solve problems I run into, learn by working through real problems, and try to keep things simple and honest about what they actually do. I’m not interested in chasing hype or following the conventional path just because it’s conventional.
+## AeoEngine
 
-Most of what I build comes from wanting to understand something better—and then making it useful.
+**AeoEngine** is a 3D voxel game engine and editor for building worlds and making games.
 
-## What I’m building
+It brings world building, rendering, physics, characters, cameras, lighting, audio, and gameplay systems together in one development environment.
 
-* **AEOWUN** — a local-first development environment I’m building around the way I actually work.
-* **AEOPIN** — a simple local-first tool for saving and finding things.
-* **Magy** — a local AI agent focused on giving the AI useful capabilities while keeping authority and safety in the runtime.
-* **OpenDiag** — an open diagnostic project focused on making vehicle diagnostic information and tools more accessible.
+AeoEngine is designed around an integrated workflow:
 
-Most of these projects are works in progress. I’d rather show what is actually working than make big claims about where they might eventually go.
+```text
+Build → Script → Run → Test → Iterate
+```
 
-## How I work
+The engine and editor are developed together so that creating a world and running it are part of the same system.
 
-I tend to start with the problem, figure out what the system needs to guarantee, and then work outward from there.
+[Explore AeoEngine](https://aeowun.com/aeoengine/)
 
-I care more about **why something works, what happens when it fails, and who is allowed to make a decision** than making something look impressive.
+## AeoScript
+
+**AeoScript** is the gameplay scripting language built for AeoEngine.
+
+It is used to define gameplay behavior, respond to events, work with world cells and entities, control runtime properties, and interact with engine systems.
+
+AeoScript is designed to stay small and focused on game development rather than exposing unnecessary engine internals.
+
+[Explore AeoScript](https://aeowun.com/aeoscript/)
+
+## Documentation
+
+The AEOWUN website contains the documentation for AeoEngine and AeoScript, including tutorials, API references, language documentation, and technical reference material.
+
+[Read the Documentation](https://aeowun.com/docs/)
+
+## Development
+
+AeoEngine and AeoScript are actively developed.
+
+The engine, language, editor, and documentation evolve together as the systems are tested and used.
+
+The goal is to build useful software, understand how it works, and keep the systems clear about their responsibilities.
+
+## About the Developer
+
+AEOWUN is developed by **Zachary Joubert**, a self-taught software builder focused on systems, game development, and learning through building.
 
 [GitHub](https://github.com/Aeowun)
