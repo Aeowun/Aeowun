@@ -42,8 +42,4 @@ The engine, language, editor, and documentation evolve together as the systems a
 
 The goal is to build useful software, understand how it works, and keep the systems clear about their responsibilities.
 
-## About the Developer
-
-AEOWUN is developed by **Zachary Joubert**, a self-taught software builder focused on systems, game development, and learning through building.
-
 [GitHub](https://github.com/Aeowun)
