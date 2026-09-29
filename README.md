@@ -1,4 +1,4 @@
-# AEOWUN
+# AEOWUN // Zachary Joubert
 
 AEOWUN is focused on building **AeoEngine** and **AeoScript**.
 
