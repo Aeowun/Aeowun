@@ -1,14 +1,14 @@
 # AEOWUN // Zachary Joubert
 
-At AEOWUN I am focused on building **AeoEngine** and **AeoScript**.
+At AEOWUN I am focused on building **WORLDKILN** and **AeoScript**.
 
-## AeoEngine
+## WORLDKILN
 
-**AeoEngine** is a 3D voxel game engine and editor for building worlds and making games.
+**WORLDKILN** is a 3D voxel game engine and editor for building worlds and making games.
 
 It brings world building, Actors, physics, characters, cameras, lighting, audio, UI, scripting, and Play mode into one development environment.
 
-AeoEngine is built around a direct workflow:
+WORLDKILN is built around a direct workflow:
 
 ```text
 Build → Script → Play → Test → Iterate
@@ -16,11 +16,11 @@ Build → Script → Play → Test → Iterate
 
 World editing, gameplay scripting, testing, and game building all happen within the same project.
 
-[Explore AeoEngine](https://aeowun.com/aeoengine/)
+[Explore WORLDKILN](https://aeowun.com)
 
 ## AeoScript
 
-**AeoScript** is the gameplay scripting language built for AeoEngine.
+**AeoScript** is the gameplay scripting language built for WORLDKILN.
 
 It is used to create gameplay behavior, respond to events, control Actors and Entities, work with the World, create UI, control audio and animation, and interact with other engine systems.
 
@@ -30,7 +30,7 @@ AeoScript is designed to stay small, readable, and focused on game development.
 
 ## Documentation
 
-The AEOWUN website contains documentation for AeoEngine and AeoScript, including:
+The AEOWUN website contains documentation for WORLDKILN and AeoScript, including:
 
 - Getting started guides.
 - AeoScript language documentation.
@@ -42,7 +42,7 @@ The AEOWUN website contains documentation for AeoEngine and AeoScript, including
 
 ## Development
 
-AeoEngine and AeoScript are actively developed.
+WORLDKILN and AeoScript are actively developed.
 
 The engine, editor, scripting language, and documentation continue to evolve together as new features are built, tested, and used in real projects.
 
