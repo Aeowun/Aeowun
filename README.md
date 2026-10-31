@@ -47,4 +47,4 @@ WORLDKILN and AeoScript are actively developed.
 
 The engine, editor, scripting language, and documentation continue to evolve together as new features are built, tested, and used in real projects.
 
-[GitHub](https://github.com/Aeowun)
+[GitHub](https://github.com/Aeowun/Worldkiln)
