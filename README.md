@@ -47,6 +47,10 @@ I'm still learning, rewriting things, breaking things, fixing them, and figuring
 
 **Education:** Harvard CS50x — Introduction to Computer Science (completed), WGU BS Computer Science - February 1, 2027
 
+### Certifications
+
+[![Harvard CS50x](https://img.shields.io/badge/Harvard-CS50x_Certified-A51C30?style=for-the-badge)](https://github.com/Aeowun/Aeowun/blob/main/certifications/CS50x.pdf)
+
 ## AI in My Workflow
 
 I use AI tools for research, debugging, testing, documentation, and programming assistance.
