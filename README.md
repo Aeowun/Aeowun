@@ -8,8 +8,6 @@ Aeowun is where I share projects, experiments, and tools I've worked on over the
 
 [**Worldkiln**](https://github.com/Aeowun/Worldkiln) is an open-source game engine written primarily in Rust.
 
-The goal is to bridge the gap between beginner-friendly game creation tools and larger, more complex engines.
-
 Worldkiln includes:
 
 - A visual editor for building game worlds
@@ -21,15 +19,13 @@ Worldkiln includes:
 
 Worldkiln is licensed under **Apache 2.0**.
 
-## A Little Background
+## Background
 
 I started programming as a teenager, mostly because I wanted to modify video games. I experimented with C++, Lua, Python, game scripts, and save data.
 
 Eventually, I moved into making small personal projects using tools like Unreal Engine and Blueprint Visual Scripting.
 
 During the pandemic, I watched someone build a game engine on YouTube and thought, "Why not try that?"
-
-So I did.
 
 That little experiment became AeoEngine. It wasn't supposed to be released publicly. I just wanted to see how much I could learn by building something myself.
 
@@ -56,8 +52,6 @@ I'm still learning, rewriting things, breaking things, fixing them, and figuring
 I use AI tools for research, debugging, testing, documentation, and programming assistance.
 
 Project direction, design decisions, testing, and release approval remain my responsibility.
-
-AI is another tool in my development workflow, not a substitute for understanding what I'm building.
 
 ## Links
 
