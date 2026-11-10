@@ -1,50 +1,68 @@
-# AEOWUN // Zachary Joubert
+# Aeowun
 
-At AEOWUN I am focused on building **WORLDKILN** and **AeoScript**.
+**Independent software development, game engines, and whatever else catches my interest.**
 
-## WORLDKILN
-<img width="1672" height="941" alt="Worldkiln_ Build Your Fantasy Fortress" src="https://github.com/user-attachments/assets/9e96c941-bb2c-49c3-90df-b03db513030c" />
+Aeowun is where I share projects, experiments, and tools I've worked on over the years. Nothing too fancy. I enjoy programming, figuring out how things work, and occasionally building something useful along the way.
 
-**WORLDKILN** is a 3D voxel game engine and editor for building worlds and making games.
+## Featured Project — Worldkiln
 
-It brings world building, Actors, physics, characters, cameras, lighting, audio, UI, scripting, and Play mode into one development environment.
+[**Worldkiln**](https://github.com/Aeowun/Worldkiln) is an open-source game engine written primarily in Rust.
 
-WORLDKILN is built around a direct workflow:
+The goal is to bridge the gap between beginner-friendly game creation tools and larger, more complex engines.
 
-```text
-Build → Script → Play → Test → Iterate
-```
+Worldkiln includes:
 
-World editing, gameplay scripting, testing, and game building all happen within the same project.
+- A visual editor for building game worlds
+- AeoScript, its own scripting language
+- Physics, collision detection, and navigation
+- Character animation and asset importing
+- Multiplayer networking
+- Standalone game packaging
 
-[Explore WORLDKILN](https://aeowun.com)
+Worldkiln is licensed under **Apache 2.0**.
 
-## AeoScript
+## A Little Background
 
-**AeoScript** is the gameplay scripting language built for WORLDKILN.
+I started programming as a teenager, mostly because I wanted to modify video games. I experimented with C++, Lua, Python, game scripts, and save data.
 
-It is used to create gameplay behavior, respond to events, control Actors and Entities, work with the World, create UI, control audio and animation, and interact with other engine systems.
+Eventually, I moved into making small personal projects using tools like Unreal Engine and Blueprint Visual Scripting.
 
-AeoScript is designed to stay small, readable, and focused on game development.
+During the pandemic, I watched someone build a game engine on YouTube and thought, "Why not try that?"
 
-[Explore AeoScript](https://aeowun.com/aeoscript/)
+So I did.
 
-## Documentation
+That little experiment became AeoEngine. It wasn't supposed to be released publicly. I just wanted to see how much I could learn by building something myself.
 
-The AEOWUN website contains documentation for WORLDKILN and AeoScript, including:
+Years later, AeoEngine evolved into Worldkiln.
 
-- Getting started guides.
-- AeoScript language documentation.
-- API references.
-- Engine documentation.
-- Tutorials and examples.
+I'm still learning, rewriting things, breaking things, fixing them, and figuring out what comes next.
 
-[Read the Documentation](https://aeowun.com/docs/)
+## Tools & Technologies
 
-## Development
+**Languages:** Rust, C, C++, Python, Lua, JavaScript
 
-WORLDKILN and AeoScript are actively developed.
+**Game Development:** Worldkiln, Unreal Engine, Blender
 
-The engine, editor, scripting language, and documentation continue to evolve together as new features are built, tested, and used in real projects.
+**Engine Development:** Vulkan, physics, animation, networking, scripting language implementation
 
-[GitHub](https://github.com/Aeowun/Worldkiln)
+**Development Tools:** VS Code, Git, GitHub, Cargo
+
+**Web:** HTML, CSS, JavaScript, APIs
+
+**Education:** Harvard CS50x — Introduction to Computer Science (completed), WGU BS Computer Science - February 1, 2027
+
+## AI in My Workflow
+
+I use AI tools for research, debugging, testing, documentation, and programming assistance.
+
+Project direction, design decisions, testing, and release approval remain my responsibility.
+
+AI is another tool in my development workflow, not a substitute for understanding what I'm building.
+
+## Links
+
+- [Website](https://aeowun.com)
+- [Worldkiln](https://aeowun.com/worldkiln/)
+- [Worldkiln Source Code](https://github.com/Aeowun/Worldkiln)
+
+---
